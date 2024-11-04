@@ -6,7 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group_id: 58
+
+Meryem Erdoğan 2736403
+
+Zeynep Berda Akkuş 2448074
 
 
 .. toctree::
